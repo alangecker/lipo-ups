@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BQ24610RGER")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/BQ24610RGER.kicad_sym")(options "")(descr ""))
+  (lib (name "SI4401DDY")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/SI4401DDY-T1-GE3_C558264.kicad_sym")(options "")(descr ""))
+  (lib (name "ETA3000")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/ETA3000S2G.kicad_sym")(options "")(descr ""))
+  (lib (name "XL6019")(type "KiCad")(uri "${KIPRJMOD}/JLC2KiCad_lib/symbol/XL6019E1.kicad_sym")(options "")(descr ""))
+  (lib (name "converter")(type "KiCad")(uri "${KIPRJMOD}/converter.kicad_sym")(options "")(descr ""))
+  (lib (name "Jitter Components")(type "Legacy")(uri "${KIPRJMOD}/Jitter_Components.lib")(options "")(descr ""))
+)
