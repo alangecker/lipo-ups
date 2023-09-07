@@ -14,6 +14,6 @@ a modular UPS utilizing any 2s LiPo Battery (e.g. for RC cars)
 - active balancing
 
 ## Specs
-- Input: 9-12V and ≥6A
+- Input: 9-12V and ≥5A
 
 

@@ -3172,7 +3172,7 @@
     (property "Reference" "F1" (at 58.928 34.29 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "8A" (at 58.928 36.83 90)
+    (property "Value" "6A" (at 58.928 36.83 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Fuse:Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder" (at 58.928 41.148 90)
